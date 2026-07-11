@@ -19,9 +19,10 @@ https://daiyamomorin.github.io/daiya-links/
 ## リンクの並び順
 
 1. LINEオープンチャット「物販AI部」（最重要CTA、有料note販売の起点なので一番目立たせる）
-2. TikTok
-3. Instagram
-4. Threads
+2. Instagram
+3. TikTok
+4. X
+5. Threads
 
 ## 更新方法
 
